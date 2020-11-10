@@ -1,7 +1,7 @@
 # repo_ejercicios
 ### Ejercicios/data
 
-Carpetas con ejercicios. 
+Carpetas con ejercicios. Python_Basic
 
 La carpeta europa_market_eda_delivery contiene un EDA con la siguiente información: 
 
